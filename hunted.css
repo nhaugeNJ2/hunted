@@ -1,0 +1,20 @@
+.one{
+  display:column;
+  grid-template-columns:repeat(3, 1fr);
+  grid-gap:1em;
+  text-align: center;
+  font-family: 'Flavors', cursive;
+  color: #ff3333;
+  font-size: 50px;
+  background-color: black;
+}
+.two{
+  display:column;
+  grid-template-columns:repeat(3, 1fr);
+  grid-gap:1em;
+  text-align: center;
+  font-family: 'Nosifer', cursive;
+  color: red;
+  font-size: 50px;
+  background-color: black;
+}
